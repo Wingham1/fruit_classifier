@@ -3,6 +3,8 @@ A CNN to predict the kind of fruit in an image. This project uses a subset of th
 
 # Prerequisites
 
-numpy
-opencv-python
-tensorflow
+numpy==1.17.3
+opencv-python==4.1.1.26
+tensorflow==2.0.0
+
+use pip install -r requirements.txt to install prerequisites
